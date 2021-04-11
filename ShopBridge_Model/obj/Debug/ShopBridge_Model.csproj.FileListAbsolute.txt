@@ -1,0 +1,6 @@
+E:\practice_projects\MVC Projects\ShopBridge\ShopBridge_Model\bin\Debug\ShopBridge_Model.dll
+E:\practice_projects\MVC Projects\ShopBridge\ShopBridge_Model\bin\Debug\ShopBridge_Model.pdb
+E:\practice_projects\MVC Projects\ShopBridge\ShopBridge_Model\obj\Debug\ShopBridge_Model.csprojAssemblyReference.cache
+E:\practice_projects\MVC Projects\ShopBridge\ShopBridge_Model\obj\Debug\ShopBridge_Model.csproj.CoreCompileInputs.cache
+E:\practice_projects\MVC Projects\ShopBridge\ShopBridge_Model\obj\Debug\ShopBridge_Model.dll
+E:\practice_projects\MVC Projects\ShopBridge\ShopBridge_Model\obj\Debug\ShopBridge_Model.pdb
